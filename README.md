@@ -1,6 +1,6 @@
 # Project Title
 
-FeM-QrProject
+fCC-LandingPage
 
 ## Description
 
